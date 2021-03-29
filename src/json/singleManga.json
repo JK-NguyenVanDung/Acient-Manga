@@ -1,0 +1,66 @@
+
+{
+  "id": "T01",
+  "manga_name": "Naruto",
+  "manga_author": "Masashi Kishimoto",
+  "latest_chapter": 300,
+  "manga_art_cover": "/art_cover/naruto5.jpg",
+  "manga_url": "/Manga/Naruto",
+  "status": "Hoàn Thành",
+  "description": "Bối cảnh Naruto xảy ra vào mười hai năm trước khi câu chuyện chính thức bắt đầu, một con hồ ly chín đuôi đã tấn công Konohagakure. Nó là một con quái vật có sức mạnh khủng khiếp, chỉ một cái vẫy từ một trong chín cái đuôi của nó có thể tạo ra những cơn sóng thần và san bằng nhiều ngọn núi. Nó gây ra sự hỗn loạn và giết chết rất nhiều người cho đến khi người đứng đầu làng Lá – Hokage đệ tứ – đã đánh bại nó bằng cách đổi lấy mạng sống của mình để phong ấn nó vào trong người một đứa trẻ mới sinh. Đứa trẻ đó tên là Uzumaki Naruto. Bộ truyện kể về cuộc hành trình đầy gian khổ với vô vàn khó khăn, thử thách của Naruto từ khi còn là một cậu bé tới khi trở thành một trong những nhẫn giả vĩ đại nhất. Không chỉ mô tả về một thế giới nhẫn giả huyền bí, Naruto còn mang trong nó nhiều ý nghĩa nhân sinh sâu sắc về tình bạn, tình đồng đội, tình yêu, ước mơ và hi vọng.",
+  "chapter_names": [
+  
+    "Chương 1 First Chaper",
+    "Chương 2 Second Chaper",
+    "Chương 3 Third Chaper"
+  ],
+  "chapter_urls": [
+    "/Manga/Naruto/C01",
+    "/Manga/Naruto/C02",
+    "/Manga/Naruto/C03"
+  ],
+
+  "comments": [
+    {
+        "name": "Dũng",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment",
+        "date": "1990-06-20 08:03",
+        "like": 3,
+        "reply": [
+            {
+                "name": "Dũng",
+                "avatar": "/art_cover/naruto5.jpg",
+                "comment": "This is a reply",
+                "date": "1990-06-20 08:03",
+                "like": 3
+            },
+            {
+                "name": "Van",
+                "avatar": "/art_cover/naruto5.jpg",
+                "comment": "This is a reply 2",
+                "date": "1990-06-20 08:03",
+                "like": 3
+            }
+        ]
+    },
+    {
+        "name": "Khoa",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment 2",        
+        "date": "1990-06-20 08:03",
+        "like": 5,
+        "reply" : [] 
+    },
+    {
+        "name": "Nhân",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment 3",        
+        "date": "1990-06-20 08:03",
+        "like": 10 ,
+        "reply": []
+    }
+],
+  "user_last_read":  "/Manga/Naruto/C02" 
+}
+

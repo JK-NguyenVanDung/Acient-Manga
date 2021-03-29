@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dũng",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment",
+        "date": "1990-06-20 08:03",
+        "like": 3, 
+        "replies": [
+            {
+                "name": "Dũng",
+                "avatar": "/art_cover/naruto5.jpg",
+                "comment": "This is a comment",
+                "date": "1990-06-20 08:03",
+                "like": 3
+            }
+        ]
+    },
+    {
+        "name": "Khoa",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment 2",        
+        "date": "1990-06-20 08:03",
+        "like": 5 
+    },
+    {
+        "name": "Nhân",
+        "avatar": "/art_cover/naruto5.jpg",
+        "comment": "This is a comment 3",        
+        "date": "1990-06-20 08:03",
+        "like": 10 
+    }
+]

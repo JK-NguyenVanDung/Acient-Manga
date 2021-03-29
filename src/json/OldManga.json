@@ -1,0 +1,16 @@
+[
+    {
+        "manga_name": "Naruto Shippuden",
+        "manga_author": "Masashi Kishimoto",
+        "latest_chapter": 300,
+        "manga_art_cover": "art_cover/naruto5.jpg",
+        "manga_url": "public\\json\\naruto.json"
+    },
+    {
+        "manga_name": "AOT",
+        "manga_author": "Hajime Isayama",
+        "latest_chapter": 136,
+        "manga_art_cover": "art_cover/attackontitan1.jpg",
+        "manga_url": "public\\json\\naruto.json"
+    }
+]

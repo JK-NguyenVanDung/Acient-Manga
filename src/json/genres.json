@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Action",
+      "value": "/Search/Action"
+    },
+    {
+      "name": "Romance",
+      "value": "/Search/Romance"
+    },
+    {
+      "name": "Comedy",
+      "value": "/Search/Comedy"
+    },
+    {
+      "name": "Adventures",
+      "value": "/Search/Adventures"
+    },
+    {
+      "name": "School Life",
+      "value": "/Search/School Life"
+    },
+    {
+      "name": "Slice Of Life",
+      "value": "/Search/Slice Of Life"
+    },
+    {
+      "name": "Sport",
+      "value": "/Search/Sport"
+    }
+  ]

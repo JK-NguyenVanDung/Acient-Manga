@@ -1,0 +1,273 @@
+[
+    {
+        "id": "T01",
+        "manga_name": "Naruto",
+        "manga_author": "Masashi Kishimoto",
+        "latest_chapter": 300,
+        "release_date": "1998-08-20", 
+        "manga_art_cover": "/art_cover/naruto5.jpg",
+        "manga_url": "/public/json/naruto.json"
+    },
+    {
+        "id": "T02",
+        "manga_name": "Attack On Titan",
+        "manga_author": "Hajime Isayama",
+        "latest_chapter": 136,
+        "release_date": "2010-12-05", 
+
+        "manga_art_cover": "/art_cover/attackontitan1.jpg",
+        "manga_url": "/public/json/naruto.json"
+    },
+    {
+        "id": "T03",
+        "manga_name": "Dragon Ball",
+        "manga_author": "Akira Toriyama",
+        "latest_chapter": 300,
+        "release_date": "1995-06-02", 
+
+        "manga_art_cover": "/art_cover/dragonball1.jpg",
+        "manga_url": "/public/json/naruto.json"
+    },
+    {
+        "id": "T04",
+        "manga_name": "Dragon Ball Super",
+        "manga_author": "Masashi Kishimoto",
+        "latest_chapter": 100,        
+        "release_date": "2013-07-12", 
+        "manga_art_cover": "/art_cover/dragonballs11.jpg",
+        "manga_url": "/public/json/naruto.json"
+    },    {        "id": "T05",
+
+        "manga_name": "One Piece",
+        "manga_author": "Oda Eiichiro",
+        "latest_chapter": 900,        
+        "release_date": "1999-03-30", 
+        "manga_art_cover": "/art_cover/onepiece1.jpg",
+        "manga_url": "/public/json/naruto.json"
+    }
+,      {  "id": "T01",
+"manga_name": "Naruto1",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 300,
+"release_date": "1998-08-20", 
+"manga_art_cover": "/art_cover/naruto5.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T02",
+"manga_name": "Attack On Titan1",
+"manga_author": "Hajime Isayama",
+"latest_chapter": 136,
+"release_date": "2010-12-05", 
+
+"manga_art_cover": "/art_cover/attackontitan1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T03",
+"manga_name": "Dragon Ball1",
+"manga_author": "Akira Toriyama",
+"latest_chapter": 300,
+"release_date": "1995-06-02", 
+
+"manga_art_cover": "/art_cover/dragonball1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T04",
+"manga_name": "Dragon Ball Super1",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 100,        
+"release_date": "2013-07-12", 
+"manga_art_cover": "/art_cover/dragonballs11.jpg",
+"manga_url": "/public/json/naruto.json"
+},    {        "id": "T05",
+
+"manga_name": "One Piece1",
+"manga_author": "Oda Eiichiro",
+"latest_chapter": 900,        
+"release_date": "1999-03-30", 
+"manga_art_cover": "/art_cover/onepiece1.jpg",
+"manga_url": "/public/json/naruto.json"
+}
+,        {"id": "T01",
+"manga_name": "Naruto2",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 300,
+"release_date": "1998-08-20", 
+"manga_art_cover": "/art_cover/naruto5.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T02",
+"manga_name": "Attack On Titan2",
+"manga_author": "Hajime Isayama",
+"latest_chapter": 136,
+"release_date": "2010-12-05", 
+
+"manga_art_cover": "/art_cover/attackontitan1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T03",
+"manga_name": "Dragon Ball2",
+"manga_author": "Akira Toriyama",
+"latest_chapter": 300,
+"release_date": "1995-06-02", 
+
+"manga_art_cover": "/art_cover/dragonball1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T04",
+"manga_name": "Dragon Ball Super2",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 100,        
+"release_date": "2013-07-12", 
+"manga_art_cover": "/art_cover/dragonballs11.jpg",
+"manga_url": "/public/json/naruto.json"
+},    {        "id": "T05",
+
+"manga_name": "One Piece3",
+"manga_author": "Oda Eiichiro",
+"latest_chapter": 900,        
+"release_date": "1999-03-30", 
+"manga_art_cover": "/art_cover/onepiece1.jpg",
+"manga_url": "/public/json/naruto.json"
+}
+,{        "id": "T01",
+"manga_name": "Naruto",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 300,
+"release_date": "1998-08-20", 
+"manga_art_cover": "/art_cover/naruto5.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T02",
+"manga_name": "Attack On Titan3",
+"manga_author": "Hajime Isayama",
+"latest_chapter": 136,
+"release_date": "2010-12-05", 
+
+"manga_art_cover": "/art_cover/attackontitan1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T03",
+"manga_name": "Dragon Ball3",
+"manga_author": "Akira Toriyama",
+"latest_chapter": 300,
+"release_date": "1995-06-02", 
+
+"manga_art_cover": "/art_cover/dragonball1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T04",
+"manga_name": "Dragon Ball Super3",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 100,        
+"release_date": "2013-07-12", 
+"manga_art_cover": "/art_cover/dragonballs11.jpg",
+"manga_url": "/public/json/naruto.json"
+},    {        "id": "T05",
+
+"manga_name": "One Piece4",
+"manga_author": "Oda Eiichiro",
+"latest_chapter": 900,        
+"release_date": "1999-03-30", 
+"manga_art_cover": "/art_cover/onepiece1.jpg",
+"manga_url": "/public/json/naruto.json"
+}
+,        {"id": "T01",
+"manga_name": "Naruto4",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 300,
+"release_date": "1998-08-20", 
+"manga_art_cover": "/art_cover/naruto5.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T02",
+"manga_name": "Attack On Titan4",
+"manga_author": "Hajime Isayama",
+"latest_chapter": 136,
+"release_date": "2010-12-05", 
+
+"manga_art_cover": "/art_cover/attackontitan1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T03",
+"manga_name": "Dragon Ball4",
+"manga_author": "Akira Toriyama",
+"latest_chapter": 300,
+"release_date": "1995-06-02", 
+
+"manga_art_cover": "/art_cover/dragonball1.jpg",
+"manga_url": "/public/json/naruto.json"
+},
+{
+"id": "T04",
+"manga_name": "Dragon Ball Super11",
+"manga_author": "Masashi Kishimoto",
+"latest_chapter": 100,        
+"release_date": "2013-07-12", 
+"manga_art_cover": "/art_cover/dragonballs11.jpg",
+"manga_url": "/public/json/naruto.json"
+},    {        "id": "T05",
+
+"manga_name": "One Piece11",
+"manga_author": "Oda Eiichiro",
+"latest_chapter": 900,        
+"release_date": "1999-03-30", 
+"manga_art_cover": "/art_cover/onepiece1.jpg",
+"manga_url": "/public/json/naruto.json"
+}
+
+,    {        "id": "T05",
+
+    "manga_name": "One Piece11",
+    "manga_author": "Oda Eiichiro",
+    "latest_chapter": 900,        
+    "release_date": "1999-03-30", 
+    "manga_art_cover": "/art_cover/onepiece1.jpg",
+    "manga_url": "/public/json/naruto.json"
+    },    {        "id": "T05",
+
+        "manga_name": "One Piece11",
+        "manga_author": "Oda Eiichiro",
+        "latest_chapter": 900,        
+        "release_date": "1999-03-30", 
+        "manga_art_cover": "/art_cover/onepiece1.jpg",
+        "manga_url": "/public/json/naruto.json"
+        },    {        "id": "T05",
+
+            "manga_name": "One Piece11",
+            "manga_author": "Oda Eiichiro",
+            "latest_chapter": 900,        
+            "release_date": "1999-03-30", 
+            "manga_art_cover": "/art_cover/onepiece1.jpg",
+            "manga_url": "/public/json/naruto.json"
+            },    {        "id": "T05",
+
+                "manga_name": "One Piece11",
+                "manga_author": "Oda Eiichiro",
+                "latest_chapter": 900,        
+                "release_date": "1999-03-30", 
+                "manga_art_cover": "/art_cover/onepiece1.jpg",
+                "manga_url": "/public/json/naruto.json"
+                },    {        "id": "T05",
+
+                    "manga_name": "One Piece11",
+                    "manga_author": "Oda Eiichiro",
+                    "latest_chapter": 900,        
+                    "release_date": "1999-03-30", 
+                    "manga_art_cover": "/art_cover/onepiece1.jpg",
+                    "manga_url": "/public/json/naruto.json"
+                    }
+
+
+]
+

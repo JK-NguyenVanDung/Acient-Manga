@@ -1,0 +1,89 @@
+{
+    "id": "C01",
+    "manga_name": "Naruto",
+    "manga_url": "/Manga/Naruto",
+    "chapter_numb": "01",
+    "chapter_urls": "/Manga/Naruto/C01",
+    "chapter_title":"Naruto Uzumaki",
+    "chapters_numb":[
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+    ],
+    "previous_chap_link": "/Manga/Naruto/C01",
+    "next_chap_link":"/Manga/Naruto/C02",
+    "chapters_link":[
+        "/Manga/Naruto/C01",
+        "/Manga/Naruto/C02",
+        "/Manga/Naruto/C03",
+        "/Manga/Naruto/C04",
+        "/Manga/Naruto/C05",
+        "/Manga/Naruto/C06",
+        "/Manga/Naruto/C07",
+        "/Manga/Naruto/C08",
+        "/Manga/Naruto/C09",
+        "/Manga/Naruto/C10"
+    ],
+    "images": [
+        "/onepiece-example/1.jpg",
+        "/onepiece-example/2.jpg",
+        "/onepiece-example/3.jpg",   
+        "/onepiece-example/4.jpg",           
+        "/onepiece-example/4.jpg",
+        "/onepiece-example/5.jpg",
+        "/onepiece-example/6.jpg",
+        "/onepiece-example/7.jpg",   
+        "/onepiece-example/8.jpg",           
+        "/onepiece-example/9.jpg",
+        "/onepiece-example/10.jpg"
+    ],
+    "comments": [
+        {
+            "name": "Dũng",
+            "avatar": "/art_cover/naruto5.jpg",
+            "comment": "This is a comment",
+            "date": "1990-06-20 08:03",
+            "like": 3,
+            "reply": [
+                {
+                    "name": "Dũng",
+                    "avatar": "/art_cover/naruto5.jpg",
+                    "comment": "This is a reply",
+                    "date": "1990-06-20 08:03",
+                    "like": 3
+                },
+                {
+                    "name": "Van",
+                    "avatar": "/art_cover/naruto5.jpg",
+                    "comment": "This is a reply 2",
+                    "date": "1990-06-20 08:03",
+                    "like": 3
+                }
+            ]
+        },
+        {
+            "name": "Khoa",
+            "avatar": "/art_cover/naruto5.jpg",
+            "comment": "This is a comment 2",        
+            "date": "1990-06-20 08:03",
+            "like": 5,
+            "reply" : [] 
+        },
+        {
+            "name": "Nhân",
+            "avatar": "/art_cover/naruto5.jpg",
+            "comment": "This is a comment 3",        
+            "date": "1990-06-20 08:03",
+            "like": 10 ,
+            "reply": []
+        }
+    ]
+
+}
