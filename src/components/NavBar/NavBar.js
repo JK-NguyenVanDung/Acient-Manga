@@ -33,7 +33,6 @@ import {
   UserAvatar,
   AvatarListItem,
   AvatarBtn,
-  TableList,
 } from "./NavBar.elements";
 // not use yet
 function readJson() {
@@ -202,12 +201,12 @@ const NavBar = () => {
                 </Icon>
               </Search>
             </Wrapper>
-            <NavMenu click={click} width={!user ? "660px" : "550px"}>
-              <NavItem width="220px">
+            <NavMenu click={click} width={!user ? "50%" : "50%"}>
+              <NavItem width="20%">
                 <NavLinks to="/">Trang Chủ</NavLinks>
               </NavItem>
               <NavItem
-                width="220px"
+                width="15%"
                 borderBottom="none"
                 onClick={() => setdisplayG(!displayG)}
                 onMouseEnter={() => setHoverG(true)}
@@ -215,7 +214,7 @@ const NavBar = () => {
               >
                 <NavBtn>Thể Loại</NavBtn>
                 {(width > 1024 ? isHoverG : null) || displayG ? (
-                  <DdList width="30%">
+                  <DdList width="25%">
                     {genres.map((genre, index) => (
                       <DdListItem key={index}>
                         <NavLinks to={genre.value}>{genre.name}</NavLinks>
@@ -225,7 +224,7 @@ const NavBar = () => {
                 ) : null}
               </NavItem>
               <NavItem
-                width="290px"
+                width="20%"
                 borderBottom="none"
                 onClick={() => setdisplayYM(!displayYM)}
                 onMouseEnter={() => setHoverYM(true)}
@@ -251,11 +250,11 @@ const NavBar = () => {
                   <NavLinks to="/upload">Upload</NavLinks>
                 </NavItem>
               ) : null}
-              <NavItem width={user.username === "admin" ? "80px" : "100px"}>
+              <NavItem width={user.username === "admin" ? "15%" : "15%"}>
                 <NavLinks to="/contact">Contact</NavLinks>
               </NavItem>
               {!user ? (
-                <NavItemBtn width="120px">
+                <NavItemBtn width="30%">
                   {button ? (
                     <NavBtnLink to="/login">
                       <Button primary>Đăng Nhập</Button>

@@ -82,7 +82,7 @@ export const NavMenu = styled.ul`
   list-style: none;
   text-align: center;
   height: 100%;
-  width: ${(props) => (props.width ? props.width : "700px")};
+  width: ${(props) => (props.width ? props.width : "100%")};
 
   @media screen and (max-width: 1024px) {
     display: flex;
@@ -280,7 +280,7 @@ export const Search = styled.div`
   font-family: Arial, "Times New Roman", serif;
   position: relative;
   background: #fff;
-  width: 120%;
+  width: 130%;
   border-radius: 5px;
   box-shadow: 0px 1px 5px 3px rgba(0, 0, 0, 0.12);
   &:click {

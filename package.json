@@ -31,15 +31,13 @@
     "react-slick": "^0.28.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.1",
-    "web-vitals": "^0.2.4",
-    "webpack": "^5.26.3"
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "dev": "webpack --mode development",
-    "build": "webpack --mode production"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -59,7 +57,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "webpack-cli": "^4.5.0"
-  }
+  "devDependencies": {}
 }
