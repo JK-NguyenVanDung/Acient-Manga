@@ -1,5 +1,5 @@
 import React, { useState, handleSubmit } from "react";
-import genres from "P:/TruyenTranh9x/truyen-tranh-9x/src/json/genres.json";
+import genres from "../../json/genres.json";
 import { Checkbox } from "@material-ui/core";
 import DateFnsUtils from "@date-io/date-fns";
 import Grid from "@material-ui/core/Grid";

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-import NewMangaData from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\Manga.json";
-import OldMangaData from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\OldManga.json";
+import NewMangaData from "../../json/Manga.json";
+import OldMangaData from "../../json/OldManga.json";
 import { Link } from "react-router-dom";
 
 import ReactPaginate from "react-paginate";

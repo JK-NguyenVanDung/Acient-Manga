@@ -170,12 +170,12 @@ body {
   transition: 0.6s;
 }
 
-.details h2 { font-size: 30px;
+.details h2 {
+  font-size: 30px;
   margin: auto;
   padding: 0;
-  text-align: center; 
+  text-align: center;
   vertical-align: top;
-
 }
 
 .details h2 .author {
@@ -621,8 +621,7 @@ body {
 
 .commentBox {
   height: auto;
- display: flex;
-
+  display: flex;
 }
 
 .commentCard {
@@ -632,7 +631,6 @@ body {
   width: 90%;
   padding-left: 10px;
   padding-top: 5px;
-
 }
 
 .avatarImg {
@@ -645,21 +643,21 @@ body {
   margin: auto;
   align-self: center;
 }
-.avatarImg img{
+.avatarImg img {
   border-radius: 50%;
 }
 
-.commentSec {  
-  position: relative;  
+.commentSec {
+  position: relative;
   max-width: 100%;
   width: 90%;
   padding-bottom: 30px;
 }
-.input-com {  
-  position: relative;  
+.input-com {
+  position: relative;
 
   width: 900px;
-  height:120px;
+  height: 120px;
   border-radius: 5px;
 }
 
@@ -882,9 +880,9 @@ body {
   margin-top: 5px;
 }
 
-.preview{
-  max-width:100%;
-  height: auto
+.preview {
+  max-width: 100%;
+  height: auto;
 }
 .dropGroup {
   border: solid black 0.1rem;
@@ -936,12 +934,18 @@ body {
   text-decoration: none;
 }
 
-.sorted {  text-align: center;
-
+.sorted {
+  text-align: center;
 }
-
+@media screen and (max-width: 1250px) {
+  .sorted {
+    margin-left: 10%;
+  }
+  .sorted .paginationCont {
+    margin-right: 27%;
+  }
+}
 .sorted .row .table-card-wrapper {
-
   margin-left: 20px;
 
   margin-right: 20px;
@@ -954,97 +958,91 @@ body {
   align-self: left;
 }
 
-.materialBtnCont{
-text-align: center;
+.materialBtnCont {
+  text-align: center;
 }
 
-.gLoginBtn{
+.gLoginBtn {
   width: 100%;
 
   margin: 20px;
 }
-.gLoginBtn span{
-  color: rgb(219,68,55);
-
+.gLoginBtn span {
+  color: rgb(219, 68, 55);
 }
-.facebookCont{
+.facebookCont {
   width: 100%;
 }
-.fLoginBtn{  
+.fLoginBtn {
   width: 100%;
-  height: 50px;  
-  justify-content:left;
-  background-color: rgb(255, 255, 255); 
-  display: inline-flex; 
-  align-items: center; 
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 2px 0px, rgba(0, 0, 0, 0.24) 0px 0px 1px 0px; 
-  padding: 0px; border-radius: 2px; 
-  border: 1px solid transparent; 
-  font-size: 14px; font-weight: 500; 
+  height: 50px;
+  justify-content: left;
+  background-color: rgb(255, 255, 255);
+  display: inline-flex;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 2px 0px,
+    rgba(0, 0, 0, 0.24) 0px 0px 1px 0px;
+  padding: 0px;
+  border-radius: 2px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-weight: 500;
   font-family: Roboto, sans-serif;
 
-  color:rgb(59,89,152);
+  color: rgb(59, 89, 152);
 }
 
-.fLoginBtn:hover{
+.fLoginBtn:hover {
   cursor: pointer;
-  opacity:0.9;
- }
+  opacity: 0.9;
+}
 
-.fLoginBtn svg{
+.fLoginBtn svg {
   margin-right: 15px;
   margin-left: 8px;
 }
 
-.fLoginBtn span{
-  padding: 10px 10px 10px 0px; font-weight: 500;}
-.FProw{
+.fLoginBtn span {
+  padding: 10px 10px 10px 0px;
+  font-weight: 500;
+}
+.FProw {
   margin: auto;
   text-align: center;
 }
 
-.iconBtn{
+.iconBtn {
   position: fixed;
-
 
   bottom: 25px;
   left: 5px;
   z-index: 10;
-
 }
 
-
-
-
-
-#customScroll::-webkit-scrollbar-track
-{
-	border-radius: 10px;
-	background-color: #F5F5F5;
+#customScroll::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #f5f5f5;
 }
 
-#customScroll::-webkit-scrollbar
-{
-	width: 12px;
-	background-color: #F5F5F5;
+#customScroll::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f5f5f5;
 }
 
-#customScroll::-webkit-scrollbar-thumb
-{
-	border-radius: 10px;
-	background-color: #555;
+#customScroll::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #555;
 }
 
-.dropDownReport{
+.dropDownReport {
   margin-left: auto;
-  margin-right:2%;
+  margin-right: 2%;
 }
 
-.pageNF{  
+.pageNF {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 300px;  
-
+  height: 300px;
 }

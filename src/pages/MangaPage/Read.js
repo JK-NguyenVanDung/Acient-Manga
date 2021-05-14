@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Chapter from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\NarutoChapter01.json";
+import Chapter from "../../json/NarutoChapter01.json";
 import { Link } from "react-router-dom";
 import { useLocation, useParams, useHistory } from "react-router";
 import { Paths, CommentSec } from "../../components";

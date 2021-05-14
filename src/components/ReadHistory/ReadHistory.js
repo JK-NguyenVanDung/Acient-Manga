@@ -1,5 +1,5 @@
 import React from "react";
-import MangaData from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\Manga.json";
+import MangaData from "../../json/Manga.json";
 import { Link } from "react-router-dom";
 import { Button } from "@material-ui/core";
 export const ReadHistory = () => {

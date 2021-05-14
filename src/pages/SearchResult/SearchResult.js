@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useLocation, useHistory } from "react-router";
-import NewMangaData from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\Manga.json";
-import genres from "P:/TruyenTranh9x/truyen-tranh-9x/src/json/genres.json";
+import NewMangaData from "../../json/Manga.json";
+import genres from "../../json/genres.json";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import { Paths, GetTable } from "../../components";

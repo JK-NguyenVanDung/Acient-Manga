@@ -1,5 +1,5 @@
 import React from "react";
-import singleManga from "P:\\TruyenTranh9x\\truyen-tranh-9x\\src\\json\\singleManga.json";
+import singleManga from "../../json/singleManga.json";
 import { Link } from "react-router-dom";
 import { useHistory, useLocation } from "react-router";
 import ReadMore from "./ReadMore";

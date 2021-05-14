@@ -1,5 +1,5 @@
 import React from "react";
-import { Icon } from "P:/TruyenTranh9x/truyen-tranh-9x/src/components/Icons/Icons.js";
+import { Icon } from "../Icons/Icons.js";
 import {
   Container,
   Wrapper,

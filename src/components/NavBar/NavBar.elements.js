@@ -41,7 +41,7 @@ export const NavLogo = styled(Link)`
     transition: all 0.3s ease;
     text-decoration: none;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     font-size: 0.8rem;
     width: 70px;
     margin-right: 20px;
@@ -50,7 +50,7 @@ export const NavLogo = styled(Link)`
 
 export const NavIcon = styled(FaMagento)`
   margin-right: 0.5rem;
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     font-size: 0.7rem;
     width: 20px;
     margin-right: 20px;
@@ -60,7 +60,7 @@ export const NavIcon = styled(FaMagento)`
 export const MobileIcon = styled.div`
   display: none;
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     z-index: 4;
 
     display: block;
@@ -84,7 +84,7 @@ export const NavMenu = styled.ul`
   height: 100%;
   width: ${(props) => (props.width ? props.width : "100%")};
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -108,7 +108,7 @@ export const NavItem = styled.div`
       props.borderBottom ? props.borderBottom : "2px solid #4b59f7"};
   }
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -137,7 +137,7 @@ export const NavLinks = styled(Link)`
     transition: all 0.3s ease;
     text-decoration: none;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     text-align: center;
     padding: 2rem;
     width: 100%;
@@ -170,7 +170,7 @@ export const NavBtn = styled.button`
     transition: all 0.3s ease;
     text-decoration: none;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     text-align: center;
     padding: 2rem;
     width: 100%;
@@ -188,7 +188,7 @@ export const NavItemBtn = styled.li`
   padding-left: 10px;
   width: ${(props) => (props.width ? props.width : "200px")};
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,7 +209,7 @@ export const DdList = styled.ul`
   &:hover .DdListItem {
     visibility: true;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     border-radius: 0px;
 
     background: #414757;
@@ -243,7 +243,7 @@ export const DdListItem = styled.li`
   &:hover {
     transition: all 0.3s ease;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     display: flex;
     &:hover {
       background: #632ce4;
@@ -253,7 +253,7 @@ export const DdListItem = styled.li`
 `;
 
 export const NavBtnLink = styled(Link)`
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -286,7 +286,7 @@ export const Search = styled.div`
   &:click {
     border-radius: 5px 5px 0 0;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     width: 90%;
   }
 `;
@@ -349,7 +349,7 @@ export const TextResult = styled.span`
   font-size: 25px;
   text-transform: capitalize;
   height: 20px;
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     font-size: 15px;
   }
 `;
@@ -372,7 +372,7 @@ export const NavAvatar = styled.div`
   z-index: 10;
   width: ${(props) => (props.width ? props.width : "50px")};
   margin-left: 20px;
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     width: 50px;
     margin-left: 0px;
     margin-right: 25px;
@@ -390,7 +390,7 @@ export const UserAvatar = styled(Avatar)`
     cursor: pointer;
     opacity: 0.7;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     &:hover {
       cursor: pointer;
     }
@@ -409,7 +409,7 @@ export const AvatarListItem = styled.ul`
   &:hover .UserAvatar {
     visibility: true;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     right: 0px;
     width: 250%;
   }
@@ -436,7 +436,7 @@ export const AvatarBtn = styled.button`
     transition: all 0.3s ease;
     text-decoration: none;
   }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1250px) {
     text-align: center;
     font-size: 0.8em;
     display: table;

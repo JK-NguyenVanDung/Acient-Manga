@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useContext } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { IconContext } from "react-icons/lib";
 import { Button } from "../../globalStyles";
-import genres from "P:/TruyenTranh9x/truyen-tranh-9x/src/json/genres.json";
+import genres from "../../json/genres.json";
 import { useHistory } from "react-router";
 import { UserContext } from "../../UserContext";
 
@@ -191,7 +191,7 @@ const NavBar = () => {
                           </SearchResult>
                         );
                       })}
-                  </SearchResultsBox>
+                  </SearchResultsBox> // cái này em làm để test thui
                 )}
                 <Icon>
                   <InputIcon
